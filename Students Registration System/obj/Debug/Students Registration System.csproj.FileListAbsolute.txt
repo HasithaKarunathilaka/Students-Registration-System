@@ -1,0 +1,34 @@
+c:\users\hasitha\documents\visual studio 2012\Projects\Students Registration System\Students Registration System\bin\Debug\Students Registration System.exe.config
+c:\users\hasitha\documents\visual studio 2012\Projects\Students Registration System\Students Registration System\bin\Debug\Students Registration System.exe
+c:\users\hasitha\documents\visual studio 2012\Projects\Students Registration System\Students Registration System\bin\Debug\Students Registration System.pdb
+c:\users\hasitha\documents\visual studio 2012\Projects\Students Registration System\Students Registration System\obj\Debug\Students_Registration_System.Properties.Resources.resources
+c:\users\hasitha\documents\visual studio 2012\Projects\Students Registration System\Students Registration System\obj\Debug\Students Registration System.csproj.GenerateResource.Cache
+c:\users\hasitha\documents\visual studio 2012\Projects\Students Registration System\Students Registration System\obj\Debug\Students Registration System.exe
+c:\users\hasitha\documents\visual studio 2012\Projects\Students Registration System\Students Registration System\obj\Debug\Students Registration System.pdb
+c:\users\hasitha\documents\visual studio 2012\Projects\Students Registration System\Students Registration System\obj\Debug\Students Registration System.csprojResolveAssemblyReference.cache
+c:\users\hasitha\documents\visual studio 2012\Projects\Students Registration System\Students Registration System\obj\Debug\Students_Registration_System.login.resources
+C:\Users\Hasitha\documents\visual studio 2012\Projects\Students Registration System\Students Registration System\obj\Debug\Students_Registration_System.Home.resources
+C:\Users\Hasitha\Documents\Visual Studio 2012\Projects\Students Registration System\Students Registration System\bin\Debug\Database1.mdf
+C:\Users\Hasitha\Documents\Visual Studio 2012\Projects\Students Registration System\Students Registration System\bin\Debug\Database1_log.ldf
+C:\Users\Hasitha\Documents\Visual Studio 2012\Projects\Students Registration System\Students Registration System\bin\Debug\DBStudents.mdf
+C:\Users\Hasitha\Documents\Visual Studio 2012\Projects\Students Registration System\Students Registration System\bin\Debug\DBStudents_log.ldf
+C:\Users\Hasitha\Documents\Visual Studio 2012\Projects\Students Registration System\Students Registration System\bin\Debug\Database2.mdf
+C:\Users\Hasitha\Documents\Visual Studio 2012\Projects\Students Registration System\Students Registration System\bin\Debug\Database2_log.ldf
+C:\Users\Hasitha\Documents\Visual Studio 2012\Projects\Students Registration System\Students Registration System\bin\Debug\DBCourse.mdf
+C:\Users\Hasitha\Documents\Visual Studio 2012\Projects\Students Registration System\Students Registration System\bin\Debug\DBCourse_log.ldf
+C:\Users\Hasitha\Documents\Visual Studio 2012\Projects\Students Registration System\Students Registration System\bin\Debug\Students Registration System.exe.manifest
+C:\Users\Hasitha\Documents\Visual Studio 2012\Projects\Students Registration System\Students Registration System\bin\Debug\Students Registration System.application
+C:\Users\Hasitha\Documents\Visual Studio 2012\Projects\Students Registration System\Students Registration System\obj\Debug\Students Registration System.exe.manifest
+C:\Users\Hasitha\Documents\Visual Studio 2012\Projects\Students Registration System\Students Registration System\obj\Debug\Students Registration System.application
+G:\Upload Drive\C# Project ESOFT\Students Registration System\Students Registration System\bin\Debug\Students Registration System.exe.config
+G:\Upload Drive\C# Project ESOFT\Students Registration System\Students Registration System\obj\Debug\Students Registration System.exe
+G:\Upload Drive\C# Project ESOFT\Students Registration System\Students Registration System\obj\Debug\Students Registration System.pdb
+E:\Upload Drive\C# Project ESOFT\Students Registration System\Students Registration System\bin\Debug\Students Registration System.exe.config
+E:\Upload Drive\C# Project ESOFT\Students Registration System\Students Registration System\obj\Debug\Students Registration System.exe
+E:\Upload Drive\C# Project ESOFT\Students Registration System\Students Registration System\obj\Debug\Students Registration System.pdb
+F:\C# Project ESOFT\Students Registration System\Students Registration System\bin\Debug\Students Registration System.exe.config
+F:\C# Project ESOFT\Students Registration System\Students Registration System\obj\Debug\Students Registration System.exe
+F:\C# Project ESOFT\Students Registration System\Students Registration System\obj\Debug\Students Registration System.pdb
+F:\My Software Projects\C#\C# Project ESOFT\Students Registration System\Students Registration System\bin\Debug\Students Registration System.exe.config
+F:\My Software Projects\C#\C# Project ESOFT\Students Registration System\Students Registration System\obj\Debug\Students Registration System.exe
+F:\My Software Projects\C#\C# Project ESOFT\Students Registration System\Students Registration System\obj\Debug\Students Registration System.pdb
